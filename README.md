@@ -1,6 +1,17 @@
-# ComfyUI-Krea2T-Enhancer
+> [!IMPORTANT]
+> **Independent community preservation**
+>
+> This repository restores capitan01R's ComfyUI-Krea2T-Enhancer
+> from a local backup identifying itself as version 1.5.0,
+> following the disappearance of the original repository.
+> Original authorship, copyright notices, and the MIT license
+> are preserved.
+>
+> Documentation and repository cleanup is in progress.
+> Some instructions may still refer to the original repository during this process.
+> Changes made since restoration are recorded in the commit history.
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support-yellow.svg)](https://buymeacoffee.com/capitan01r)
+# ComfyUI-Krea2T-Enhancer
 
 Prompt-adherence enhancement for Krea2 diffusion models in ComfyUI.
 
@@ -10,7 +21,7 @@ The enhancer nodes patch Krea2's text-fusion path during sampling. The package a
 
 ```bash
 cd ComfyUI/custom_nodes
-git clone https://github.com/capitan01R/ComfyUI-Krea2T-Enhancer.git
+git clone https://github.com/sahuhtala/ComfyUI-Krea2T-Enhancer.git
 ```
 
 Restart ComfyUI after installing or updating.
